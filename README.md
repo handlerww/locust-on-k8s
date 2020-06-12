@@ -1,2 +1,2 @@
-# locust-on-k8s
-yamls for locust on kubernetes
+# Locust on Kubernetes
+Using public cloud to do some performance tests is a good thing. We could use k8s to manage the temporary cluster to help us. However, kubernetes configurations files on github is out-of-date. This projects provide the latest yaml using official images.
